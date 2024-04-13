@@ -1,0 +1,36 @@
+{
+"name": "task-man-2fsfwager",
+"version": "1.0.0",
+"description": "a simple command-line application written in Node.js",
+"main": "index.js",
+"scripts": {},
+"repository": {
+"type": "git",
+"url": "https://github.com/learnaviu2514/Task-Manager.git"
+},
+"keywords": [
+"sample",
+"npm",
+"package"
+],
+"author": "learnaviu2514",
+"license": "MIT",
+"dependencies": {
+"dfndetitydgoryes": "^1.0.0",
+"quick-taskgfd": "^1.0.0",
+"sim43ple-calcu-lat4or": "^1.0.0",
+"madi21-dsf": "^1.0.0",
+"a-dynamic34e": "^1.0.0",
+"weadsther-chew-ecker": "^1.0.0",
+"an-innovative-solution": "^1.0.0",
+"a-multifunctional-application": "^1.0.0",
+"insig-htify-1": "^1.0.0",
+"data-izpro-2": "^1.0.0",
+"qufregote-of-thrrfe-day": "^1.0.0",
+"axios": "^0.21.1"
+},
+"peerDependencies": {
+"react": ">=16.8.0",
+"react-dom": ">=16.8.0"
+}
+}
